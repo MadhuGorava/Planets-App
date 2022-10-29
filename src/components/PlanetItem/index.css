@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planets {
+  height: 200px;
+  width: 200px;
+  background-color: transparent;
+}
+.heading {
+  color: antiquewhite;
+  font-weight: 600;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.details {
+  color: antiquewhite;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.text-container {
+  width: 50%;
+}
